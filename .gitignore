@@ -1,0 +1,24 @@
+# Entorno y cache
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Bases de datos
+db/
+*.db
+*.sqlite
+*.sqlite3
+
+# Datos crudos
+data/raw/
+# ppt
+ppt/
+# SO
+.DS_Store
+Thumbs.db
+
+db/*
+!db/.gitkeep
+
+data/raw/*
+!data/raw/.gitkeep
