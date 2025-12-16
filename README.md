@@ -13,7 +13,7 @@ Interactive Streamlit app to:
 
 ## 📁 Project Structure
 
-text
+
 ```telco_churn_project/
 ├── app.py                         # Main Streamlit application
 ├── README.md                      # Project documentation
