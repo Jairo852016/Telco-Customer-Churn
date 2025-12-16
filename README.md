@@ -12,8 +12,9 @@ Interactive Streamlit app to:
 - Ejecutarse localmente (sin dependencias en la nube).
 
 ## 📁 Project Structure
-telco_churn_project/
-│
+
+text
+```telco_churn_project/
 ├── app.py                         # Main Streamlit application
 ├── README.md                      # Project documentation
 ├── requirements.txt               # Required packages
@@ -35,6 +36,7 @@ telco_churn_project/
 │
 └── notebooks/
     └── training.ipynb             # EDA, SMOTE, feature selection, model training
+```
 
 
 ## 🧠 Included Models
